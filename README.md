@@ -1,2 +1,2 @@
-# DS_Assigment1
-This is an assigment for numpy & pandas basics.
+# DAwPy-Assignments
+I added the first assigment for numpy & pandas basics.
