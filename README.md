@@ -1,2 +1,2 @@
 # DAwPy-Assignments
-I added the first assigment for numpy & pandas basics.
+I add my assignments here in this file.
